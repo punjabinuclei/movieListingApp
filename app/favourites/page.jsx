@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { useGlobalContext } from "../../context/Context";
+import { useGlobalContext } from "../../context/context";
 import MovieOverview from "../../components/MovieOverview";
 import NoData from "../../components/NoData";
 
